@@ -1,0 +1,64 @@
+@font-face {
+	font-family: 'NITW';
+	src: url('../fonts/NITW.otf');
+}
+
+body {
+  background-color: black;
+  font-family: 'NITW';
+  background-image: url('../img/stars.jpg');
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+h2 {
+  color: white;
+  font-family: 'NITW';
+  text-align: center;
+  font-size: 17px;
+}
+
+/*НАВИГАЦИЯ*/
+  
+.topnav {
+  background-color: black;
+  overflow: hidden;
+  border-bottom: 1px solid white;
+}
+  
+.topnav a {
+  float: center;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+  
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+  
+.topnav a.active {
+  background-color: #361549;
+  color: white;
+}
+/*------------------------------------------*/
+
+.footer {
+  user-select: none;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid white;
+  display: flex;
+  background: black;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.footer a{
+  text-decoration: none;
+}
