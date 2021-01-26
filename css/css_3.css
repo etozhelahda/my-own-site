@@ -5,8 +5,8 @@
 
 body {
   background-color: black;
-  font-family: 'NITW';
   background-image: url('../img/stars.jpg');
+  font-family: 'NITW';
   background-repeat: no-repeat;
   background-position: top;
 }
@@ -24,6 +24,7 @@ h2 {
   background-color: black;
   overflow: hidden;
   border-bottom: 1px solid white;
+  display: flex;
 }
   
 .topnav a {
