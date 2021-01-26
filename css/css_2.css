@@ -24,6 +24,22 @@ img {
   object-fit: scale-down;
 }
 
+.footer {
+  user-select: none;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid white;
+  display: flex;
+  background: black;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.footer a{
+  text-decoration: none;
+}
 
 /*НАВИГАЦИЯ*/
 
