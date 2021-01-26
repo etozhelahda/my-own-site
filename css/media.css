@@ -243,4 +243,104 @@
     }
 }
 
+@media only screen and (max-width: 420px){
+    .tooltip_1 {
+        max-width: 170px;
+        right: 82%;
+        top: 23%;
+    }
+    .tooltip_1 .tooltiptext {
+        max-width: 90px;
+        font-size: 20px;
+        bottom: 90%;
+    }
 
+    .tooltip_2 {
+        max-width: 170px;
+        right: 10%;
+    }
+    .tooltip_2 .tooltiptext {
+        max-width: 90px;
+        font-size: 20px;
+        bottom: 12%;
+
+    }
+
+    .tooltip_3 {
+        max-width: 150px;
+        right: 80%;
+        top: 65%;
+    }
+    .tooltip_3 .tooltiptext {
+        max-width: 90px;
+        font-size: 20px;
+
+    }
+
+    .tooltip_4 {
+        max-width: 110px;
+        right: 35%;
+        top: 40%;
+    }
+    .tooltip_4 .tooltiptext {
+        max-width: 90px;
+        font-size: 20px;
+        bottom: 3%;
+
+    }
+
+    .tooltip_5 {
+        max-width: 190px;
+        right: 35%;
+        top: 100%; 
+    }
+    .tooltip_5 .tooltiptext {
+        max-width: 90px;
+        font-size: 20px;
+
+    }
+
+    .tooltip_6 {
+        max-width: 170px;
+        right: -1%;
+        top: 65%;
+    }
+    .tooltip_6 .tooltiptext {
+        max-width: 90px;
+        font-size: 20px;
+
+    }
+
+    .tooltip_7 {
+        max-width: 170px;
+        right: -50%;
+        top: 18%;
+    }
+    .tooltip_7 .tooltiptext {
+        max-width: 90px;
+        font-size: 20px;
+
+    }
+
+    .tooltip_8 {
+        max-width: 140px;
+        right: -54%;
+        top: 45%;
+    }
+    .tooltip_8 .tooltiptext {
+        max-width: 90px;
+        font-size: 20px;
+
+    }
+    
+    .tooltip_9 {
+        max-width: 100px;
+        right: -52%;
+        top: 85%;
+    }
+    .tooltip_9 .tooltiptext {
+        max-width: 90px;
+        font-size: 20px;
+
+    }
+}
