@@ -47,6 +47,17 @@ h2 {
 }
 /*------------------------------------------*/
 
+.block{
+  width: 500px; 
+  padding: 15% 30px;
+  padding-right: 20px; 
+  float: left;
+  display: flex;
+  position: absolute;
+  font-size: 30px;
+  color: white;
+}
+
 .footer {
   user-select: none;
   position: fixed;
