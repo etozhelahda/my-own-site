@@ -1,0 +1,24 @@
+@media only screen and (max-width: 700px) {
+    .block{
+        width: 400px; 
+        padding: 15% 30px;
+        padding-right: 20px; 
+        float: left;
+        display: flex;
+        position: absolute;
+        font-size: 30px;
+        color: white;
+      }
+}
+@media only screen and (max-width: 480px) {
+  .block{
+      width: 350px; 
+      padding: 15% 30px;
+      padding-right: 20px; 
+      float: left;
+      display: flex;
+      position: absolute;
+      font-size: 30px;
+      color: white;
+    }
+}
